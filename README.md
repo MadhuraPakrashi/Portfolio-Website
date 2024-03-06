@@ -1,2 +1,2 @@
 # Portfolio-Website
-The code for my portfolio website
+This repository contains the code for my portfolio website. Though have taken the Editorial template for this website from the HTMLUP website, i have customised it according to my own preference. This is a dream come true for students like me who come from a non-tech background. Thanks to Nitish Singh whose Youtube channel CampusX i have followed for inspiration. Feel free to reach out to me at madhurapakrashi2@gmail.com for any queries. Any suggestions for betterment will be valued and appreciated.  
